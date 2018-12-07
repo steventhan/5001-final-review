@@ -8,13 +8,4 @@
 """
 
 def find_stack_length(stack):
-    length = 0
-    temp = []
-    while not stack.is_empty():
-        temp.append(stack.pop())
-        length += 1
-
-    for element in temp[::-1]:
-        stack.push(element)
-
-    return length
+    pass
