@@ -7,4 +7,3 @@
 4. File processing and Exception Handling
 5. Recursion
 6. The basics of Python (functions, iteration, conditionals, string processing, variables, data types, arithmetic operations, error types)
-w
